@@ -71,10 +71,15 @@ namespace EGym.Logic
             return false;
         }
 
-        public void BookActivity(int activityId, int trainerId, DateTime startDate, DateTime endDate)
+        public void BookActivity(int activityId, int trainerId, DateTime startDate, DateTime endDate, int clientId)
         {
-            var booking = new Booking() { ActivityId = activityId, TrainerId = trainerId, StartTime = startDate, EndTime = endDate};
+            var booking = new Booking() { ActivityId = activityId, TrainerId = trainerId, StartTime = startDate, EndTime = endDate, ClientId = clientId};
             DataManager.RegisterActivity(booking);
+        }
+        //Book new client
+        public void BookClient()
+        {
+
         }
 
         
