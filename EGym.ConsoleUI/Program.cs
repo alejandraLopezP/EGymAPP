@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using EGym.Logic;
+using EGym.Logic.Models.People;
 
 namespace EGym.ConsoleUI
 {
@@ -22,6 +23,20 @@ namespace EGym.ConsoleUI
 
                 switch (pressedKey)
                 {
+                    case "C": // Create new user
+                        Console.WriteLine("Name:");
+                        string input = Console.ReadLine();
+                        string name = input;
+                        Console.WriteLine("Email:");
+                        input = Console.ReadLine();
+                        string email = input;
+                        Console.WriteLine("Number:");
+                        input = Console.ReadLine();
+                        string number = input;
+
+                        Client oClient = new Client(name, email, number); 
+
+                        break;
                     case "R":
                         break;
                     case "S":

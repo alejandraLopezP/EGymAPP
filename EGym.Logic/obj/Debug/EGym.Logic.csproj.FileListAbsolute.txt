@@ -4,3 +4,9 @@ C:\Users\allop\source\Repos\EGym\EGym.Logic\obj\Debug\EGym.Logic.csprojAssemblyR
 C:\Users\allop\source\Repos\EGym\EGym.Logic\obj\Debug\EGym.Logic.csproj.CoreCompileInputs.cache
 C:\Users\allop\source\Repos\EGym\EGym.Logic\obj\Debug\EGym.Logic.dll
 C:\Users\allop\source\Repos\EGym\EGym.Logic\obj\Debug\EGym.Logic.pdb
+C:\Programming\Projekt\Gym\EGymAPP\EGym.Logic\bin\Debug\EGym.Logic.dll
+C:\Programming\Projekt\Gym\EGymAPP\EGym.Logic\bin\Debug\EGym.Logic.pdb
+C:\Programming\Projekt\Gym\EGymAPP\EGym.Logic\obj\Debug\EGym.Logic.csprojAssemblyReference.cache
+C:\Programming\Projekt\Gym\EGymAPP\EGym.Logic\obj\Debug\EGym.Logic.csproj.CoreCompileInputs.cache
+C:\Programming\Projekt\Gym\EGymAPP\EGym.Logic\obj\Debug\EGym.Logic.dll
+C:\Programming\Projekt\Gym\EGymAPP\EGym.Logic\obj\Debug\EGym.Logic.pdb
