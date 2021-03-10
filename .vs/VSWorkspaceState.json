@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EGym.ConsoleUI",
+    "\\EGym.Logic",
+    "\\EGym.Logic\\Infrastructure"
+  ],
+  "SelectedNode": "\\EGym.Logic\\Infrastructure\\DataManagerSimulator.cs",
+  "PreviewInSolutionExplorer": false
+}
